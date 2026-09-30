@@ -7,3 +7,4 @@ Write a java code for adding rows in matrix
 Write a java code by using 3 methods of string
 Write a java code by splitting a sentence into word and then rebuilt it in new format
 Write a java code for Fibonacci sequence with recursion
+Write a java code for find the largest element in a array
