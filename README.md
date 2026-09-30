@@ -4,3 +4,4 @@ Write a java code to assign grade A for the student who have the marks above 90.
 Write a java code for simple calculator
 Write a java code to find the sum and average of the array
 Write a java code for adding rows in matrix
+Write a java code by using 3 methods of string
