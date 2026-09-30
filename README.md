@@ -15,3 +15,7 @@ Write a java code for find the second largest element
 Write a java code to create hierarchy with class animal Sub class dog ,fox rabbit
 Write a java code for a method overriding a string where each class inherits to string from object and overrides that to see how the object can be printed
 Write a java code to implement the abstraction by using shapes and 2 sub classess which can have the functionality in different ways
+Description You are given N strings of length M, count the number of anagramic groups. An anagramic group is a list of strings which are anagrams of each other. Two strings are considered as anagrams of each other if both the strings are permutations of each other.
+Description
+
+Given an array of integers and an integer target, print indices of the two numbers such that the numbers add up to target. You may assume that each input would have exactly one solution, and you may not use the same element twice. You must print the answer indices in ascending order. If no such pair exists, return [-1, -11.
