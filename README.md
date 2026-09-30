@@ -14,3 +14,4 @@ Write a jode code for reversing an array in place
 Write a java code for find the second largest element
 Write a java code to create hierarchy with class animal Sub class dog ,fox rabbit
 Write a java code for a method overriding a string where each class inherits to string from object and overrides that to see how the object can be printed
+Write a java code to implement the abstraction by using shapes and 2 sub classess which can have the functionality in different ways
