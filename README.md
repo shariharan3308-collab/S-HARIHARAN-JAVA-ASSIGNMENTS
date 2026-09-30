@@ -19,3 +19,4 @@ Description You are given N strings of length M, count the number of anagramic g
 Description
 
 Given an array of integers and an integer target, print indices of the two numbers such that the numbers add up to target. You may assume that each input would have exactly one solution, and you may not use the same element twice. You must print the answer indices in ascending order. If no such pair exists, return [-1, -11.
+Given an array of integers, return the number of distinct absolute values among the elements of the array.Absolute of any value is defined as it's positive equivalent. ABS(-5) = ABS(5) = 5 or Mathematically |-5| =|5|=1
